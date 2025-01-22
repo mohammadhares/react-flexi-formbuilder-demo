@@ -1,0 +1,23 @@
+.view_json_data {
+    background-color: #eaeaeaf1; /* Light background for better readability */
+    border: 1px solid #ddd; /* Subtle border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 50px; /* Inner padding */
+    font-family: 'Courier New', Courier, monospace; /* Monospaced font for JSON data */
+    font-size: 14px; /* Comfortable font size */
+    line-height: 1.6; /* Better line spacing */
+    color: #333; /* Text color */
+    overflow: auto; /* Scroll if content exceeds the container */
+    max-height: 700px; /* Limit the height to avoid taking too much space */
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 100px;
+  }
+  
+  .view_json_data pre {
+    margin: 0; /* Remove default margin from <pre> */
+    white-space: pre-wrap; /* Wrap text for better visibility */
+    word-wrap: break-word; /* Handle long words */
+  }
+  
