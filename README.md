@@ -15,7 +15,7 @@ A flexible form builder for React projects. Easily create and customize forms wi
 
 ---
 
-## View
+## [Demo](https://react-flexi-formbuilde.netlify.app/)
 
 ![Form Builder Preview](https://codewithharis.com/images/react-flexi-formbuilder.png)
 
@@ -125,7 +125,6 @@ To apply custom styles to your form, you can simply include the `index.css` file
 
 ```javascript
 import 'react-flexi-formbuilder/dist/index.css'; 
-;
 ```
 
 Alternatively, you can override the styles by adding custom CSS in your project.
